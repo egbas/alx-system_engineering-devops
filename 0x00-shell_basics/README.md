@@ -6,3 +6,4 @@ ls -la
 ls -na
 creating directory
 mv dir/file
+rm to delete
