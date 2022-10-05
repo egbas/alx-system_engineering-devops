@@ -12,3 +12,4 @@ previous dir
 parent/current dir
 file
 sym_link
+using wildcards
