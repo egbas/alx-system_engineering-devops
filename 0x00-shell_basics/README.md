@@ -11,3 +11,4 @@ dir deletion
 previous dir
 parent/current dir
 file
+sym_link
