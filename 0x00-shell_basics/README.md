@@ -8,3 +8,4 @@ creating directory
 mv dir/file
 rm to delete
 dir deletion
+previous dir
