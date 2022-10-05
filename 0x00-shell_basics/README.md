@@ -9,3 +9,4 @@ mv dir/file
 rm to delete
 dir deletion
 previous dir
+parent/current dir
